@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "projects": {
+    "a-ionic-app": "apps/a-ionic-app",
+    "a-ionic-app-e2e": "apps/a-ionic-app-e2e",
+    "dotnet-app": "apps/dotnet-app",
+    "dotnet-lib": "libs/dotnet-lib"
+  }
+}
